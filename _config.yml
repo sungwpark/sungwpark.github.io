@@ -17,7 +17,7 @@ timezone: Asia/Seoul
 # --------------------------
 title: Sungwon Park                          # the main title
 
-tagline: Machine Learning Researcher   # it will display as the sub-title
+tagline: personal blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -67,7 +67,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   [light]
+theme_mode:   #[light]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
